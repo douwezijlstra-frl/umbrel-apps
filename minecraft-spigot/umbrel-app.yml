@@ -1,0 +1,27 @@
+manifestVersion: 1
+id: minecraft-spigot
+category: Games
+name: Spigot Minecraft Server
+version: "1.0"
+tagline: >-
+  Spigot is a fork of the Minecraft server that improves performance and
+  stability.
+description: >-
+  Spigot is a fork of the Minecraft server that improves performance and
+  stability. It contains a number of patches that improve the server's
+  performance and stability. It also contains a number of additional
+  features that can be used to customize the server.
+releaseNotes: >-
+  The first release of the Spigot Minecraft server for Umbrel.
+developer: marcermarc
+website: https://nowhere.local
+repo: https://github.com/marcermarc/DockerMinecraftHelper
+support: https://nowhere.local
+port: 25565
+gallery:
+  - 1.jpg
+  - 2.jpg
+  - 3.jpg
+path: ""
+defaultUsername: ""
+defaultPassword: ""
